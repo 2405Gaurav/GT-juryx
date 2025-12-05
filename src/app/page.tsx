@@ -241,27 +241,27 @@ const HomePage: React.FC = () => {
                 Architected By
               </span>
               <span className="text-xs font-bold text-zinc-300">
-                Abhay Bansal
+                Gaurav
               </span>
             </div>
 
             <div className="flex gap-4">
               <a
-                href="https://abhaybansal.in/"
+                href="https://thegauravthakur.in"
                 target="_blank"
                 className="text-zinc-600 hover:text-white transition-colors"
               >
                 <User className="w-4 h-4" />
               </a>
               <a
-                href="https://github.com/targter"
+                href="https://github.com/2405Gaurav"
                 target="_blank"
                 className="text-zinc-600 hover:text-white transition-colors"
               >
                 <Github className="w-4 h-4" />
               </a>
               <a
-                href="https://linkedin.com/in/abhaybansal001"
+                href="https://linkedin.com/in/gauravthakur69"
                 target="_blank"
                 className="text-zinc-600 hover:text-blue-400 transition-colors"
               >
