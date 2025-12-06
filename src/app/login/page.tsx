@@ -62,21 +62,21 @@ export default function Login() {
   useEffect(() => {
     const setDefaultCredentials = () => {
       if (role === "ORGANIZER") {
-        setEmail("abhay-org@mail");
-        setPassword("abhay");
+        setEmail("gt-org@mail");
+        setPassword("gt1234");
         // Clear codes as they aren't needed for organizer
         setCode("");
         setEventId("");
       } else if (role === "PANELIST") {
-        setEmail("abhay-panel@mail");
-        setPassword("abhay");
+        setEmail("gt-panel@mail");
+        setPassword("gt1234");
         setCode("696049"); // Dummy Panelist Code
         // Only set default ID if URL didn't provide one
         setEventId((prev) => prev || "cmif6ebw80000oa3gy5rd8htg");
       } else {
         // USER
-        setEmail("abhay-participant@mail");
-        setPassword("abhay");
+        setEmail("gt-participant@mail");
+        setPassword("gt1234");
         setCode("B3526C"); // Dummy Participant Code
         setEventId((prev) => prev || "cmif6ebw80000oa3gy5rd8htg");
       }
@@ -351,7 +351,7 @@ export default function Login() {
             Authorized Personnel Only
           </p>
           <p className="text-[9px] text-zinc-400 uppercase tracking-widest">
-            Contact : abhaybansal.in/
+            Contact : thegauravthakur.in/
           </p>
         </div>
       </motion.div>
