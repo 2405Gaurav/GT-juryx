@@ -181,7 +181,7 @@ const config = {
       "value": "prisma-client-js"
     },
     "output": {
-      "value": "C:\\clone\\JURYX-BLOCKCHAIN\\src\\generated\\prisma",
+      "value": "/vercel/sandbox/primary/src/generated/prisma",
       "fromEnvVar": null
     },
     "config": {
@@ -190,12 +190,12 @@ const config = {
     "binaryTargets": [
       {
         "fromEnvVar": null,
-        "value": "windows",
+        "value": "rhel-openssl-3.0.x",
         "native": true
       }
     ],
     "previewFeatures": [],
-    "sourceFilePath": "C:\\clone\\JURYX-BLOCKCHAIN\\prisma\\schema.prisma",
+    "sourceFilePath": "/vercel/sandbox/primary/prisma/schema.prisma",
     "isCustomOutput": true
   },
   "relativeEnvPaths": {
