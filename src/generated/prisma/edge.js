@@ -181,7 +181,7 @@ const config = {
       "value": "prisma-client-js"
     },
     "output": {
-      "value": "/vercel/sandbox/primary/src/generated/prisma",
+      "value": "C:\\Users\\HP\\OneDrive\\Desktop\\jrx\\GT-juryx\\src\\generated\\prisma",
       "fromEnvVar": null
     },
     "config": {
@@ -190,12 +190,12 @@ const config = {
     "binaryTargets": [
       {
         "fromEnvVar": null,
-        "value": "rhel-openssl-3.0.x",
+        "value": "windows",
         "native": true
       }
     ],
     "previewFeatures": [],
-    "sourceFilePath": "/vercel/sandbox/primary/prisma/schema.prisma",
+    "sourceFilePath": "C:\\Users\\HP\\OneDrive\\Desktop\\jrx\\GT-juryx\\prisma\\schema.prisma",
     "isCustomOutput": true
   },
   "relativeEnvPaths": {
