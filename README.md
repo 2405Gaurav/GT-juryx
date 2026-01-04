@@ -11,7 +11,7 @@
 
 ### **Decentralized Hackathon Judging • Zero Bias • 100% Verifiable**
 
-[🌐 Live Platform](https://GT-juryx.vercel.app/) • [📦 Repository](https://github.com/2405Gaurav/GT-juryx.git) • [📄 License: MIT](LICENSE)
+[🌐 Live Platform](https://gt-juryx.thegauravthakur.in/) • [📦 Repository](https://github.com/2405Gaurav/GT-juryx.git) • [📄 License: MIT](LICENSE)
 
 ---
 
