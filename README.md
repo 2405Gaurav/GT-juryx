@@ -126,10 +126,10 @@ Node.js/Express → IPFS Storage → Vercel Deployment
 <div align="center">
 
 ### Landing Experience
-![Landing Page](https://github.com/Targter/JURYX-BLOCKCHAIN/blob/e3a98d00b3a7052a05e4639f5694f05cde666aca/public/LANDING_PAGE.jpg)
+![Landing Page](https://github.com/2405Gaurav/GT-juryx/blob/main/public/LANDING_PAGE.png)
 
 ### Judge Interface
-![Judge Dashboard](https://github.com/2405Gaurav/GT=juryx/blob/a6f83192acf0364f195869e8ae55aa22cfb809b0/public/JUDGE_DASHBOARD.png)
+![Judge Dashboard](https://github.com/2405Gaurav/GT-juryx/blob/main/public/JUDGE_DASHBOARD.png)
 
 </div>
 
